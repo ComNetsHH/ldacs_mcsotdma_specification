@@ -1,4 +1,4 @@
-The PDF of this repository depicts the specification of the proposed Multi Channel Self-Organized TDMA (MCSOTDMA) Medium Access Control (MAC) protocol that is being proposed for the L-Band Digital 
+The PDF `mcsotdma_specification.pdf` of this repository depicts the specification of the proposed Multi Channel Self-Organized TDMA (MCSOTDMA) Medium Access Control (MAC) protocol that is being proposed for the L-Band Digital 
 Aeronautical Communications System (LDACS) Air-Air (A/A) mode.
 
 It is a result of the research project "Inter Aircraft Network (IntAirNet)".
