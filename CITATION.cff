@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this document, please cite it as below."
+authors:
+  - family-names: Lindner
+    given-names: Sebastian
+    orcid: https://orcid.org/0000-0002-5694-9675
+  - family-names: Fuger
+    given-names: Konrad
+    orcid: https://orcid.org/0000-0002-8472-1483
+  - family-names: Ahmed
+    given-names: Musab Ahmed Eltayeb
+    orcid: https://orcid.org/0000-0001-5554-3414
+  - family-names: Timm-Giel
+    given-names: Andreas
+    orcid: https://orcid.org/0000-0002-5998-6113
+  - family-names: Hampel
+    given-names: Johannes
+  - family-names: Bellido-Manganell
+    given-names: Miguel Angel
+    orcid: https://orcid.org/0000-0002-0668-3477
+title: "LDACS MCSOTDMA Protocol Specification"
+version: 1.0
+doi: 10.5281/zenodo.8079189
+date-released: 2023-06-25
