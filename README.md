@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8079189.svg)](https://doi.org/10.5281/zenodo.8079189)
+
 The PDF `mcsotdma_specification.pdf` of this repository depicts the specification of the proposed Multi Channel Self-Organized TDMA (MCSOTDMA) Medium Access Control (MAC) protocol that is being proposed for the L-Band Digital 
 Aeronautical Communications System (LDACS) Air-Air (A/A) mode.
 
